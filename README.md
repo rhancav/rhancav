@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
-<h3 align="center">A self-thought aspirant software developer from Turkey!</h3>
+<h3 align="center">A self-thought, aspiring software developer from Turkey!</h3>
 
 - 🌱 I’m currently learning **C#, .NET Core, AWS, Microservice Architecture**
 
