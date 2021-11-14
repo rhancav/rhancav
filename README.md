@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
 <h3 align="center">A self-thought, aspiring software developer from Turkey!</h3>
 
-- 🌱 I’m currently learning **C#, .NET Core, AWS, Microservice Architecture**
-
 - 💬 Ask me about **Java, Spring, Hibernate**
 
 - 📫 How to reach me **edcavdar@gmail.com**
